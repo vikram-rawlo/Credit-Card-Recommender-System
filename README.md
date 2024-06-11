@@ -43,10 +43,11 @@ As a Data scientist, we need to come up with a classification model that will he
 Clone Repository
 ```
 git clone https://github.com/vikram-rawlo/Credit-Card-Recommender-System.git
-cd 'Credit-Card-Recommender-System'
+
 ```
 Install Requirements
 ```
 pip install -r requirements.txt
 ```
+
 Open the jupyter notebook on your computer 
