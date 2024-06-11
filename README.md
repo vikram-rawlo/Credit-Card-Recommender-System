@@ -38,4 +38,15 @@ As a Data scientist, we need to come up with a classification model that will he
 - Total_Amt_Chng_Q4_Q1 : Ratio of the total transaction amount in 4th quarter and the total transaction amount in 1st quarter
 - Avg_Utilization_Ratio : Represents how much of the available credit the customer spent
 
-  
+## Installation
+
+Clone Repository
+```
+git clone https://github.com/Vikram-Git/React-Django-Todo
+cd 'todo_backend'
+```
+Install Requirements
+```
+pip install -r requirements.txt
+```
+Open the jupyter notebook on your computer 
