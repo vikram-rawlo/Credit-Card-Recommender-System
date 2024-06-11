@@ -11,7 +11,7 @@ As a Data scientist, we need to come up with a classification model that will he
 
 ### Objective:
 - Explore and visualize the dataset
-- Build a classification model to predict what is the best suitable card for the client based on the given information
+- Build a multi-class classification model to predict what is the best suitable card for the client based on the given information
 - Optimize the model using appropriate techniques
 
 ### Data Overview: 
